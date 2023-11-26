@@ -1,0 +1,10 @@
+1,DECOGRASS 10MM,18.0,4997,Grass Decorativo
+2,DECOGRASS 20MM,25.0,4996,Grass Decorativo
+3,DECOGRASS 30MM,30.0,4997,Grass Decorativo
+4,EURO TECNOGOL,31.8,9925,Grass Deportiva
+5,GOL SPORT,25.6,12500,Grass Deportiva
+6,TECNO SPORT,23.9,13620,Grass Deportiva
+7,NATURAL GOL,33.2,11070,Grass Natural
+8,Grass,25.5,50,Grass Decorativo
+9,Grass,-2.0,0,Grass Decorativo
+8,Grass,25.5,50,Grass Deportiva
